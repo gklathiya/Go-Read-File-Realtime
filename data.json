@@ -1,0 +1,17 @@
+{
+	"stationID":"sss",
+	"stationName":"GKL",
+	"deviceID":"ss",
+	"deviceName":"",
+	"isAvailable":"",
+	"currentTime":"",
+	"currentDate":"",
+	"startTime":"",
+	"endTime":"",
+	"voltages":"",
+	"totalTransfer":"",
+	"transferSpeed":"s",
+	"totalTime":"",
+	"frequencyInterval":"66"
+	
+}
